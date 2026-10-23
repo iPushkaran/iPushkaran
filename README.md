@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pushkaran.
 
-<!--
-**iPushkaran/iPushkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm independently learning computer science, artificial intelligence, and related areas of science and engineering.
 
-Here are some ideas to get you started:
+I enjoy understanding how things work, implementing ideas from scratch, and learning through building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I keep my projects, experiments, and code as I develop my skills.
+
+### What I'm exploring
+
+- Computer science and software systems
+- Artificial intelligence and machine learning
+- Mathematics and scientific computing
+- Engineering and technical experimentation
+
+### My work
+
+I document my projects, experiments, and what I learn along the way on my personal website.
+
+You can explore the repositories here to see what I'm building.
